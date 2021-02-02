@@ -1,0 +1,101 @@
+Queries for IMDB Database
+
+Database imdb
+1.	Dumping data for table movie
+SELECT movie.movie_name,media.media_type, media.media_url 
+FROM media INNER JOIN movie 
+ON movie.movie_id = media.movie_id 
+WHERE media.movie_id = 4;
+ 
+movie4	image	img41_url
+movie4	video	vid41_url
+ 
+Database imdb
+2.	Dumping data for table review
+SELECT media.media_type,media.media_url,review.review,review.rating 
+FROM review INNER JOIN media 
+ON review.movie_id = media.movie_id 
+WHERE review.movie_id=2;
+ 
+image	img21_url	awesome	9
+image	img21_url	poor	4
+image	img21_url	good	6
+image	img22_url	awesome	9
+image	img22_url	poor	4
+image	img22_url	good	6
+video	vid21_url	awesome	9
+video	vid21_url	poor	4
+video	vid21_url	good	6
+ 
+Database imdb
+3.	Dumping data for table artist_role
+SELECT artist_role.movie_id, role_performed.role_name,artist.artist_name 
+FROM role_performed 
+LEFT JOIN artist_role ON role_performed.role_id=artist_role.role_id 
+LEFT JOIN artist ON artist.artist_id= artist_role.artist_id 
+where artist_role.movie_id = 3; 
+ 
+3	scientist	meena
+3	women oriented	tanu
+3	freedom fighter	tanu
+ 
+ 
+Database imdb
+4.	Dumping data for table review
+ SELECT review.movie_id,movie.movie_name,review.review 
+FROM review INNER JOIN movie 
+ON movie.movie_id = review.movie_id 
+WHERE review.user_id = 100;
+ 
+1	movie1	good
+2	movie2	awesome
+4	movie4	average
+ 
+Database imdb
+5.	Dumping data for table artist
+SELECT artist.artist_name,skill.skill_name 
+FROM artist LEFT JOIN artist_skill 
+ON artist_skill.artist_id = artist.artist_id 
+LEFT JOIN skill ON skill.skill_id= artist_skill.skill_id 
+WHERE artist.artist_id = 1; 
+seetha	dancing
+seetha	singing
+ 
+6.Database imdb
+Dumping data for table role_performed
+SELECT role_performed.role_name,artist.artist_name 
+FROM role_performed 
+LEFT JOIN artist_role ON role_performed.role_id=artist_role.role_id 
+LEFT JOIN artist ON artist.artist_id= artist_role.artist_id 
+WHERE artist.artist_id = 2;
+ 
+freedom fighter	meena
+scientist	meena
+ 
+7.Database imdb
+Structure for view artist_and_their_skills
+Column	Type	Null	Default
+artist_name	varchar(20)	No	
+skill_name	varchar(21)	Yes	NULL
+Dumping data for table artist_and_their_skills
+seetha	dancing
+latha	dancing
+seetha	singing
+meena	acting
+meena	directing
+tanu	directing
+ 
+8.Database imdb
+Structure for view overall_rating
+Column	Type	Null	Default
+movie_id	int(11)	No	0
+movie_name	varchar(50)	No	
+rating	int(11)	No	
+Dumping data for table overall_rating
+1	movie1	6
+2	movie2	9
+3	movie3	5
+2	movie2	4
+4	movie4	6
+2	movie2	6
+ 
