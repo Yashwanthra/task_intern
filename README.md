@@ -1,5 +1,6 @@
 # task_intern
 # SQL Bolt exercises
+day1
 ![sql_bolt_ex1](https://user-images.githubusercontent.com/42089915/106542366-b59d9500-6529-11eb-9555-8151888d6c20.png)
 ![sql_bolt_ex2](https://user-images.githubusercontent.com/42089915/106542610-22b12a80-652a-11eb-9dbc-44ac5f4e73c9.png)
 ![sql_bolt_ex3](https://user-images.githubusercontent.com/42089915/106542620-2775de80-652a-11eb-8e8e-356022cb5b1b.png)
@@ -11,3 +12,14 @@
 ![sql_bolt_ex9](https://user-images.githubusercontent.com/42089915/106542774-73c11e80-652a-11eb-84ff-e3f684bb0dec.png)
 # Database for IMDB
 https://docs.google.com/spreadsheets/d/1ngW_-knY67uplpfmzD6Qq2BRRmT3qIENKgB9dxd4aEQ/edit?usp=sharing
+
+day2
+![sql_bolt_ex10](https://user-images.githubusercontent.com/42089915/106654277-f0510d00-65bd-11eb-971c-9318d80980e8.png)
+![sql_bolt_ex11](https://user-images.githubusercontent.com/42089915/106654298-f810b180-65bd-11eb-8576-431303645c82.png)
+![sql_bolt_ex12](https://user-images.githubusercontent.com/42089915/106654306-fa730b80-65bd-11eb-9f32-d26e4a160f56.png)
+![sql_bolt_ex13](https://user-images.githubusercontent.com/42089915/106654312-fc3ccf00-65bd-11eb-99f1-47af393906c1.png)
+![sql_bolt_ex14](https://user-images.githubusercontent.com/42089915/106654319-fe9f2900-65bd-11eb-984b-3cb17c7125cd.png)
+![sql_bolt_ex15](https://user-images.githubusercontent.com/42089915/106654327-04950a00-65be-11eb-8ae7-338b0b785db3.png)
+![sql_bolt_ex16](https://user-images.githubusercontent.com/42089915/106654333-078ffa80-65be-11eb-8186-721e20485668.png)
+![sql_bolt_ex17](https://user-images.githubusercontent.com/42089915/106654350-0ced4500-65be-11eb-9ae5-a860d1ea0800.png)
+![sql_bolt_ex18](https://user-images.githubusercontent.com/42089915/106654362-11b1f900-65be-11eb-91ee-557ffa76e6c9.png)
