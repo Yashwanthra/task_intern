@@ -1,4 +1,5 @@
 # task_intern
+# SQL Bolt exercises
 ![sql_bolt_ex1](https://user-images.githubusercontent.com/42089915/106542366-b59d9500-6529-11eb-9555-8151888d6c20.png)
 ![sql_bolt_ex2](https://user-images.githubusercontent.com/42089915/106542610-22b12a80-652a-11eb-9dbc-44ac5f4e73c9.png)
 ![sql_bolt_ex3](https://user-images.githubusercontent.com/42089915/106542620-2775de80-652a-11eb-8e8e-356022cb5b1b.png)
