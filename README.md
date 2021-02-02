@@ -9,3 +9,5 @@
 ![sql_bolt_ex7](https://user-images.githubusercontent.com/42089915/106542715-568c5000-652a-11eb-9706-bac78017d182.png)
 ![sql_bolt_ex8](https://user-images.githubusercontent.com/42089915/106542757-686df300-652a-11eb-899e-4ac64b2b9c37.png)
 ![sql_bolt_ex9](https://user-images.githubusercontent.com/42089915/106542774-73c11e80-652a-11eb-84ff-e3f684bb0dec.png)
+# Database for IMDB
+https://docs.google.com/spreadsheets/d/1ngW_-knY67uplpfmzD6Qq2BRRmT3qIENKgB9dxd4aEQ/edit?usp=sharing
