@@ -23,3 +23,13 @@ day2
 ![sql_bolt_ex16](https://user-images.githubusercontent.com/42089915/106654333-078ffa80-65be-11eb-8186-721e20485668.png)
 ![sql_bolt_ex17](https://user-images.githubusercontent.com/42089915/106654350-0ced4500-65be-11eb-9ae5-a860d1ea0800.png)
 ![sql_bolt_ex18](https://user-images.githubusercontent.com/42089915/106654362-11b1f900-65be-11eb-91ee-557ffa76e6c9.png)
+
+Queries on IMDB
+![Query1](https://user-images.githubusercontent.com/42089915/106713506-92094600-6620-11eb-920b-cca31d86b4d4.png)
+![Query2](https://user-images.githubusercontent.com/42089915/106713512-93d30980-6620-11eb-8c2a-69025002cfcf.png)
+![Query3](https://user-images.githubusercontent.com/42089915/106713537-99305400-6620-11eb-9ae9-52a075ba9d6b.png)
+![Query4](https://user-images.githubusercontent.com/42089915/106713545-9cc3db00-6620-11eb-9a3a-a879d49f5840.png)
+![Query5](https://user-images.githubusercontent.com/42089915/106713559-a2212580-6620-11eb-9e60-2c133b53bdef.png)
+![Query6](https://user-images.githubusercontent.com/42089915/106713569-a51c1600-6620-11eb-9cf3-f891e773d46d.png)
+![View1](https://user-images.githubusercontent.com/42089915/106713576-a8170680-6620-11eb-997c-208c5f2c80b4.png)
+![View2](https://user-images.githubusercontent.com/42089915/106713588-ab11f700-6620-11eb-8be7-babfd6055131.png)
