@@ -53,3 +53,21 @@ Teacher DB
 ![teacher_mongo2](https://user-images.githubusercontent.com/42089915/106759565-e7f9e000-6658-11eb-8429-d479bebcd2c5.png)
 ![teacher_mongo3](https://user-images.githubusercontent.com/42089915/106759580-ea5c3a00-6658-11eb-8f0d-17bc5dd89d52.png)
 
+Day 4
+Queries in mongoDB
+1. List all media of a particular film
+![Queries1_mongodb](https://user-images.githubusercontent.com/42089915/106896281-5f8e4480-6717-11eb-9782-4e6dab20366b.png)
+
+2. List all media and reviews of a particular film
+![Queries2_mongodb](https://user-images.githubusercontent.com/42089915/106896291-61f09e80-6717-11eb-8b57-2d581bca6642.png)
+
+3. List all the cast along with the roles and artist of a particular film
+![Queries3_mongodb](https://user-images.githubusercontent.com/42089915/106896298-6452f880-6717-11eb-8ee1-f51026cf0c83.png)
+
+4.List all the reviews given by a particular user
+![Queries4_mongodb](https://user-images.githubusercontent.com/42089915/106896302-65842580-6717-11eb-88bc-2d0ffbaaacc9.png)
+
+5. List all the roles and skills of a particular artist 
+![Queries5 6_mongodb](https://user-images.githubusercontent.com/42089915/106896308-67e67f80-6717-11eb-8a95-e1933bd3b64e.png)
+
+
