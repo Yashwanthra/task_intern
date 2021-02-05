@@ -70,4 +70,15 @@ Queries in mongoDB
 5. List all the roles and skills of a particular artist 
 ![Queries5 6_mongodb](https://user-images.githubusercontent.com/42089915/106896308-67e67f80-6717-11eb-8a95-e1933bd3b64e.png)
 
+e- commerece Queries in SQL
+
+![Screenshot (196)](https://user-images.githubusercontent.com/42089915/107082228-e0356980-6819-11eb-91f6-38a06af14969.png)
+![Screenshot (197)](https://user-images.githubusercontent.com/42089915/107082235-e3c8f080-6819-11eb-87aa-f0be65cd6f45.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/42089915/107082241-e592b400-6819-11eb-98da-aa6d0c5029e0.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/42089915/107082247-e7f50e00-6819-11eb-9949-178c20b4aa27.png)
+![Screenshot (200)](https://user-images.githubusercontent.com/42089915/107082253-ec212b80-6819-11eb-81e3-3a11ea9eda71.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/42089915/107082271-f3e0d000-6819-11eb-9066-3438295b1b27.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/42089915/107082282-f7745700-6819-11eb-8163-228ee7814f63.png)
+![Screenshot (203)](https://user-images.githubusercontent.com/42089915/107082294-fb07de00-6819-11eb-8622-a292c6b79ba0.png)
+
 
