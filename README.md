@@ -80,5 +80,7 @@ e- commerece Queries in SQL
 ![Screenshot (201)](https://user-images.githubusercontent.com/42089915/107082271-f3e0d000-6819-11eb-9066-3438295b1b27.png)
 ![Screenshot (202)](https://user-images.githubusercontent.com/42089915/107082282-f7745700-6819-11eb-8163-228ee7814f63.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/42089915/107082294-fb07de00-6819-11eb-8622-a292c6b79ba0.png)
+![equery1_mongo](https://user-images.githubusercontent.com/42089915/107107225-d7628900-6855-11eb-89a5-b6cecd4a599b.png)
+![equery2_mongo](https://user-images.githubusercontent.com/42089915/107107226-d893b600-6855-11eb-98df-674d3368c6c3.png)
 
 
