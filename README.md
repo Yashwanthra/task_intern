@@ -80,7 +80,9 @@ e- commerece Queries in SQL
 ![Screenshot (201)](https://user-images.githubusercontent.com/42089915/107082271-f3e0d000-6819-11eb-9066-3438295b1b27.png)
 ![Screenshot (202)](https://user-images.githubusercontent.com/42089915/107082282-f7745700-6819-11eb-8163-228ee7814f63.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/42089915/107082294-fb07de00-6819-11eb-8622-a292c6b79ba0.png)
-![equery1_mongo](https://user-images.githubusercontent.com/42089915/107107225-d7628900-6855-11eb-89a5-b6cecd4a599b.png)
-![equery2_mongo](https://user-images.githubusercontent.com/42089915/107107226-d893b600-6855-11eb-98df-674d3368c6c3.png)
 
+![ecom_mongo1](https://user-images.githubusercontent.com/42089915/107123694-f2201680-68c4-11eb-8a30-c69713734a25.png)
+![ecom_mongo2](https://user-images.githubusercontent.com/42089915/107123697-f815f780-68c4-11eb-9ea1-68db60f4639c.png)
+![ecom_mongo4](https://user-images.githubusercontent.com/42089915/107123699-fb10e800-68c4-11eb-8561-2dba0b728009.png)
+![ecom_mongo7](https://user-images.githubusercontent.com/42089915/107123702-fd734200-68c4-11eb-9bc9-bc630f7bfb06.png)
 
