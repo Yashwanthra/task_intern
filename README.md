@@ -88,3 +88,9 @@ e- commerece Queries in SQL
 
 # Country - weather site:
 https://focused-northcutt-d6a6cd.netlify.app
+
+# Cricket 10 site
+https://kind-wilson-ee6196.netlify.app
+
+# SB admin 2 dashboard (in angular)
+https://jolly-goldwasser-235653.netlify.app
