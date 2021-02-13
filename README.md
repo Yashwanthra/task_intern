@@ -94,3 +94,6 @@ https://kind-wilson-ee6196.netlify.app
 
 # SB admin 2 dashboard (in angular)
 https://jolly-goldwasser-235653.netlify.app
+
+# SB admin 2 - routing (angular)
+https://quizzical-williams-a23d0a.netlify.app
