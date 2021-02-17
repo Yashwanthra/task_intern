@@ -97,3 +97,6 @@ https://jolly-goldwasser-235653.netlify.app
 
 # SB admin 2 - routing (angular)
 https://quizzical-williams-a23d0a.netlify.app
+
+# ecommerce website in angular (with services and components)
+https://determined-lamport-c8bb10.netlify.app
